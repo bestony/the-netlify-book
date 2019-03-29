@@ -1,0 +1,34 @@
+{
+    "title": "The Netlify Book",
+    "description": "中文世界第一本完整讲述如何使用 Netlify 的电子书",
+    "plugins": [
+      "theme-comscore",
+      "ga",
+      "anchors",
+      "edit-link",
+      "sitemap-general",
+      "disqus"
+    ],
+    "pluginsConfig": {
+      "edit-link": {
+        "base": "https://github.com/bestony/the-netlify-book/edit/master",
+        "label": "参与本书贡献"
+      },
+      "sitemap-general": {
+        "prefix": "https://book.thenetlify.com/"
+      },
+      "ga": {
+        "token": "UA-47834775-22"
+      },
+       "disqus": {
+              "shortName": "easywpbook"
+          }
+    },
+    "links": {
+      "sidebar": {
+        "作者博客": "https://www.ixiqin.com",
+        "联系作者": "mailto:xiqingongzi+thenetlifybook@gmail.com"
+      }
+    }
+  }
+  
