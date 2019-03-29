@@ -12,6 +12,7 @@ The Netlify Book 是中文社区中第一本全面介绍 Netlify 的电子书，
 1. Netlify 的基本使用
 2. Netlify 与各静态站点生成器的联合使用
 3. Netlify 的拓展功能的使用
+4. Netilfy 的付费功能解读
 
 
 ## 为什么会有这本书？
