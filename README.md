@@ -21,6 +21,10 @@ The Netlify Book 是中文社区中第一本全面介绍 Netlify 的电子书，
 
 这本书的名字为《The Netlify Book》，灵感来自于 Rust 的 The Book，希望它能够帮助大家学习，学会，用爽 Netlify。
 
+## 交流群
+
+**付费QQ交流群**:[973225857](https://jq.qq.com/?_wv=1027&k=5qDA4qN)
+
 ## 协议
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议</a>进行许可。
