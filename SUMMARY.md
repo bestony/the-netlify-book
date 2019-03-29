@@ -7,14 +7,16 @@
     * 注册 & 登录
     * 部署你的第一个站点
 * Netlify 与博客程序
-    * Netlify 与 Hexo
-    * Netlify 与 Hugo
-    * Netlify 与 Octopress
-    * Netlify 与 Jekyll
+    * [Netlify 与 Hexo](blog/hexo.md)
+    * [Netlify 与 Hugo](blog/hugo.md)
+    * [Netlify 与 Octopress](blog/octopress.md)
+    * [Netlify 与 Jekyll](blog/jekyll.md)
 * Netlify 与自开发程序
-    * Netlify 与 Vue
-    * Netlify 与 React
-    * Netlify 与 Angular
+    * [Netlify 于 HTML](developer/html.md)
+    * [Netlify 与 Vue](developer/vue.md)
+    * [Netlify 与 React](developer/react.md)
+    * [Netlify 与 Angular](developer/angular.md)
+    * [Netlify 于 Gatsby](developer/gatsby.md)
 * Netlify 拓展功能
     * 云函数
     * 身份认证
